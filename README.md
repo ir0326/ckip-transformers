@@ -1,9 +1,5 @@
 # CKIP Transformers
 
-UNDER CONSTRUCTION…
-
-Estimated released on Nov. 20, 2020.
-
 ## Pretrained Language Models
 
 - [ALBERT Tiny](https://huggingface.co/ckiplab/albert-tiny-chinese)
