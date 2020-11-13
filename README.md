@@ -1,2 +1,5 @@
-# ckip-transformers
-CKIP Transformers
+# CKIP Transformers
+
+UNDER CONSTRUCTION…
+
+Estimated released on Nov. 20, 2020.
