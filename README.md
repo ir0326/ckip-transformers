@@ -3,8 +3,9 @@
 ## Pretrained Language Models
 
 - [ALBERT Tiny](https://huggingface.co/ckiplab/albert-tiny-chinese)
-- [ALBERT Base](https://huggingface.co/ckiplab/albert-tiny-chinese)
-- [BERT Base](https://huggingface.co/ckiplab/albert-tiny-chinese)
+- [ALBERT Base](https://huggingface.co/ckiplab/albert-base-chinese)
+- [BERT Base](https://huggingface.co/ckiplab/bert-base-chinese)
+- [GPT2 Base](https://huggingface.co/ckiplab/gpt2-base-chinese)
 
 ## NLP Task Models
 
